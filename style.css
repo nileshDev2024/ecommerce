@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav ul{
+    
+}
+nav ul li a{
+    color: #fff;
+}
+#logo{
+    color: #fff;
+}
+.main-section{
+background-color: #dbcc8f;
+height: 750px;
+width: auto;
+}
+
+/* body section */
+.mainbox-shop{
+    display: flex;
+    padding-top: 50px;
+}
+.box{
+    width: 500px;
+    height: auto;
+}
+.box span{
+    background-color: black;
+    color: #fff;
+    padding: 5px;
+}
+.box img{
+    width: 500;
+    height: 500px;
+    
+}
+.box h6{
+    font-size: 40px;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+button{
+    background-color: #c2a942;
+    padding: 10px 20px;
+    color: #fff;
+    border: none;
+}
+/* banner section */
+img{
+    width: 200px;
+    height: 250px;
+}
+#banner{
+    height: 650px;
+    background-color: #dbcc8f;
+    background-size: 100% 100%;
+    position: relative; 
+}
+.mainbox{
+    display: flex;
+}
+span{
+    background-color: black;
+    padding: 0px;
+    color: #fff;
+}
+.box{
+    width: 540px;
+    height: auto;
+    margin-top: 150px;
+    z-index: 1;
+}
+.box img{
+    width: 600px;
+    height: auto;
+    border-radius: 0px;
+}
+button{
+  background-color: #c2a942;
+  color: #fff;
+  padding: 10px;
+  border: #978c59;
+  font-size: 16px;
+
+}
+/* product section */
+.product_section{
+    padding-top:30px ;
+}
+.shop_name{
+    text-align: center;
+}
+.shop_name h1{
+    font-weight: bold;
+    font-size: 40px;
+    word-spacing: 2px;
+}
+.shop_name p{
+    padding-top: 10px;
+    font-weight: lighter;
+    font-size: 17px;
+}
+.card{
+    width: 375x;
+    -webkit-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.34);
+    -moz-box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.34);
+    box-shadow: 10px 10px 17px 0px rgba(0,0,0,0.34);
+    cursor: pointer;
+}
+.card img{
+    width: 250px;
+    height: 250px;
+    border-radius: 30%;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+
+/* footer */
+footer{
+    background-color: black;
+    color: #fff;
+    
+    padding-top: 60px;
+}
+footer h5{
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+.Minishop_box i{
+    font-size: 25px;
+    padding: 5px;
+} 
+#footer_menu ul li{
+    list-style: none;
+    padding-bottom: 8px;
+   
+}
+#footer_menu ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.help_box ul li{
+list-style: none;
+padding-bottom: 8px;
+padding-right: 0;
+}
+.Copyright_section p{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.Copyright_section{
+    padding-bottom: 80px;
+}
+/* about us section */
+.team_box img{
+    width: 100%;
+   border-radius: 20%;
+}
+#singlecartbtn{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
